@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\MobyDi\.Rider2018.1\system\resharper-host\local\Transient\ReSharperHost\v12\SolutionCaches\_DBLayer.-1904717839.00" t="ExcludeRecursive" />
+    <e p="C:\Users\MobyDi\RiderProjects\DBLayer" t="IncludeFlat">
+      <e p="DBConsoleTest" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="DBConsoleTest.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.0" t="Include">
+              <e p="DBConsoleTest.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+      </e>
+      <e p="DBEntities" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Client.cs" t="Include" />
+        <e p="DBEntities.csproj" t="IncludeRecursive" />
+        <e p="IdGenerator.cs" t="Include" />
+        <e p="Mocks" t="Include">
+          <e p="ClientMock1.cs" t="Include" />
+          <e p="ClientMock2.cs" t="Include" />
+          <e p="ClientMock3.cs" t="Include" />
+          <e p="TestMock.cs" t="Include" />
+        </e>
+        <e p="NameGenerator.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.0" t="Include">
+              <e p="DBEntities.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="DBLayer" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="DataBase.cs" t="Include" />
+        <e p="DBLayer.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netstandard2.0" t="Include">
+              <e p="DBLayer.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="DBLayer.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

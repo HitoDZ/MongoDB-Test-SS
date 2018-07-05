@@ -1,0 +1,50 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "C:\\Users\\MobyDi\\RiderProjects\\DBLayer\\DBConsoleTest\\DBConsoleTest.csproj",
+    "projectName": "DBConsoleTest",
+    "projectPath": "C:\\Users\\MobyDi\\RiderProjects\\DBLayer\\DBConsoleTest\\DBConsoleTest.csproj",
+    "outputPath": "C:\\Users\\MobyDi\\RiderProjects\\DBLayer\\DBConsoleTest\\obj\\",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp2.0"
+    ],
+    "frameworks": {
+      "netcoreapp2.0": {
+        "projectReferences": {
+          "C:\\Users\\MobyDi\\RiderProjects\\DBLayer\\DBEntities\\DBEntities.csproj": {
+            "projectPath": "C:\\Users\\MobyDi\\RiderProjects\\DBLayer\\DBEntities\\DBEntities.csproj"
+          },
+          "C:\\Users\\MobyDi\\RiderProjects\\DBLayer\\DBLayer\\DBLayer.csproj": {
+            "projectPath": "C:\\Users\\MobyDi\\RiderProjects\\DBLayer\\DBLayer\\DBLayer.csproj"
+          }
+        }
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.0": {
+      "dependencies": {
+        "Microsoft.NETCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.0.0, )",
+          "autoReferenced": true
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}

@@ -1,0 +1,541 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cd8342dd-e714-4f3d-810f-97a17445adb8" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/DBConsoleTest/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="465">
+              <caret line="70" column="13" lean-forward="true" selection-start-line="70" selection-start-column="13" selection-end-line="70" selection-end-column="13" />
+              <folding>
+                <marker date="1530773773516" expanded="true" signature="6:73" ph="..." />
+                <marker date="1530773773516" expanded="true" signature="98:2559" ph="{...}" />
+                <marker date="1530773773516" expanded="true" signature="125:2557" ph="{...}" />
+                <marker date="1530773773516" expanded="true" signature="158:2551" ph="{...}" />
+                <marker date="1530773773516" expanded="true" signature="603:713" ph="/* create separate collection for ... */" />
+                <marker date="1530773773516" expanded="true" signature="726:929" ph="/* foreach (var client in clients) ... */" />
+                <marker date="1530773773516" expanded="true" signature="1022:1495" ph="/* var allCollections = dbConnection.GetAllCollections(); ... */" />
+                <marker date="1530773773516" expanded="true" signature="1509:1579" ph="/* insert documents into clients collections ... */" />
+                <marker date="1530773773516" expanded="true" signature="1592:1928" ph="/* foreach (var client in clients) ... */" />
+                <marker date="1530773773516" expanded="true" signature="1985:2457" ph="{...}" />
+                <marker date="1530773773516" expanded="true" signature="2340:2443" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ClientMock1.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DBEntities/Mocks/ClientMock1.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="23" column="47" selection-start-line="23" selection-start-column="47" selection-end-line="23" selection-end-column="47" />
+              <folding>
+                <marker date="1530772604845" expanded="true" signature="20:1553" ph="{...}" />
+                <marker date="1530772604845" expanded="true" signature="51:1551" ph="{...}" />
+                <marker date="1530772604845" expanded="true" signature="979:1545" ph="{...}" />
+                <marker date="1530772604845" expanded="true" signature="1039:1534" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ClientMock2.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DBEntities/Mocks/ClientMock2.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="10" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="10" />
+              <folding>
+                <marker date="1530772537303" expanded="true" signature="20:1053" ph="{...}" />
+                <marker date="1530772537303" expanded="true" signature="51:1051" ph="{...}" />
+                <marker date="1530772537303" expanded="true" signature="720:1045" ph="{...}" />
+                <marker date="1530772537303" expanded="true" signature="780:1034" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ClientMock3.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DBEntities/Mocks/ClientMock3.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="40" selection-start-line="12" selection-start-column="40" selection-end-line="12" selection-end-column="40" />
+              <folding>
+                <marker date="1530772463973" expanded="true" signature="20:538" ph="{...}" />
+                <marker date="1530772463973" expanded="true" signature="51:536" ph="{...}" />
+                <marker date="1530772463973" expanded="true" signature="472:530" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TestMock.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DBEntities/Mocks/TestMock.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+              <folding>
+                <marker date="1530784867001" expanded="true" signature="20:588" ph="{...}" />
+                <marker date="1530784867001" expanded="true" signature="48:586" ph="{...}" />
+                <marker date="1530784867001" expanded="true" signature="297:571" ph="{...}" />
+                <marker date="1530784867001" expanded="true" signature="354:560" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Client.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DBEntities/Client.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="28" column="14" lean-forward="true" selection-start-line="28" selection-start-column="14" selection-end-line="28" selection-end-column="14" />
+              <folding>
+                <marker date="1530764953926" expanded="true" signature="35:733" ph="{...}" />
+                <marker date="1530764953926" expanded="true" signature="42:140" ph="/// Entity that reflect an information ... " />
+                <marker date="1530764953926" expanded="true" signature="164:731" ph="{...}" />
+                <marker date="1530764953926" expanded="true" signature="357:725" ph="{...}" />
+                <marker date="1530764953926" expanded="true" signature="574:685" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DataBase.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DBLayer/DataBase.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="201">
+              <caret line="78" column="46" selection-start-line="78" selection-start-column="33" selection-end-line="78" selection-end-column="46" />
+              <folding>
+                <marker date="1530767436398" expanded="false" signature="6:115" ph="..." />
+                <marker date="1530767436398" expanded="true" signature="134:4271" ph="{...}" />
+                <marker date="1530767436398" expanded="true" signature="141:211" ph="/// Put and get data from MongoDB ... " />
+                <marker date="1530767436398" expanded="true" signature="237:4269" ph="{...}" />
+                <marker date="1530767436398" expanded="true" signature="359:436" ph="{...}" />
+                <marker date="1530767436398" expanded="true" signature="447:536" ph="/// Get db ... " />
+                <marker date="1530767436398" expanded="true" signature="575:796" ph="{...}" />
+                <marker date="1530767436398" expanded="false" signature="814:1087" ph="/// Insert documents to the collection ... " />
+                <marker date="1530767436398" expanded="false" signature="1170:1392" ph="{...}" />
+                <marker date="1530767436398" expanded="false" signature="1402:1663" ph="/// Insert a document to the collection ... " />
+                <marker date="1530767436398" expanded="true" signature="1731:1951" ph="{...}" />
+                <marker date="1530767436398" expanded="false" signature="1970:2162" ph="/// returns collection by name ... " />
+                <marker date="1530767436398" expanded="true" signature="2227:2369" ph="{...}" />
+                <marker date="1530767436398" expanded="false" signature="2379:2492" ph="/// create colection by name ... " />
+                <marker date="1530767436398" expanded="false" signature="2542:2833" ph="{...}" />
+                <marker date="1530767436398" expanded="false" signature="2843:2980" ph="/// returns all collections in the db ... " />
+                <marker date="1530767436398" expanded="false" signature="3042:3301" ph="{...}" />
+                <marker date="1530767436398" expanded="false" signature="3311:3458" ph="/// returns all collection names in the db ... " />
+                <marker date="1530767436398" expanded="false" signature="3515:3759" ph="{...}" />
+                <marker date="1530767436398" expanded="true" signature="3769:3925" ph="/// returns collection of db collection ... " />
+                <marker date="1530767436398" expanded="false" signature="3998:4254" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NameGenerator.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DBEntities/NameGenerator.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+              <folding>
+                <marker date="1530765178521" expanded="true" signature="6:73" ph="..." />
+                <marker date="1530765178521" expanded="true" signature="95:496" ph="{...}" />
+                <marker date="1530765178521" expanded="true" signature="137:494" ph="{...}" />
+                <marker date="1530765178521" expanded="true" signature="219:326" ph="{...}" />
+                <marker date="1530765178521" expanded="true" signature="366:479" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IdGenerator.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DBEntities/IdGenerator.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="38" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
+              <folding>
+                <marker date="1530765376988" expanded="true" signature="35:199" ph="{...}" />
+                <marker date="1530765376988" expanded="true" signature="75:197" ph="{...}" />
+                <marker date="1530765376988" expanded="true" signature="116:191" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/DBLayer/DataBase.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DBConsoleTest/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DBEntities/NameGenerator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DBEntities/Client.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DBEntities/IdGenerator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DBEntities/Mocks/ClientMock1.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DBEntities/Mocks/ClientMock2.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DBEntities/Mocks/ClientMock3.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DBEntities/Mocks/TestMock.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/DBEntities/Class1.cs" />
+        <option value="$PROJECT_DIR$/DBEntities/Client.cs" />
+        <option value="$PROJECT_DIR$/DBEntities/NameGenerator.cs" />
+        <option value="$PROJECT_DIR$/DBEntities/IdGenerator.cs" />
+        <option value="$PROJECT_DIR$/DBLayer/DataBase.cs" />
+        <option value="$PROJECT_DIR$/DBEntities/ClientMock1.cs" />
+        <option value="$PROJECT_DIR$/DBEntities/Mocks/ClientMock1.cs" />
+        <option value="$PROJECT_DIR$/DBEntities/Mocks/ClientMock2.cs" />
+        <option value="$PROJECT_DIR$/DBEntities/Mocks/ClientMock3.cs" />
+        <option value="$PROJECT_DIR$/DBConsoleTest/Program.cs" />
+        <option value="$PROJECT_DIR$/DBEntities/Mocks/TestMock.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-40" />
+    <option name="y" value="138" />
+    <option name="width" value="1346" />
+    <option name="height" value="728" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="DBLayer (3 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="DBLayer (3 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="DBConsoleTest" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="DBLayer (3 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="DBEntities" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="DBLayer (3 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="DBLayer" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.database.dataSource.DataSourceTemplate" value="Database Driver" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected=".NET Project.DBConsoleTest">
+    <configuration name="DBConsoleTest" type="DotNetProject" factoryName=".NET Project" temporary="true">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/DBConsoleTest/bin/Debug/netcoreapp2.0/DBConsoleTest.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DBConsoleTest" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/DBConsoleTest/DBConsoleTest.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v2.0" />
+    </configuration>
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="PROJECT_PATH" value="" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="None" />
+      <option name="PROJECT_TFM" value="" />
+    </configuration>
+    <list>
+      <item itemvalue=".NET Project.Default" />
+      <item itemvalue=".NET Project.DBConsoleTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue=".NET Project.DBConsoleTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cd8342dd-e714-4f3d-810f-97a17445adb8" name="Default" comment="" />
+      <created>1530761238892</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1530761238892</updated>
+      <workItem from="1530761243083" duration="14151000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="14151000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Errors In Solution" />
+      <window_info anchor="bottom" id="Event Log" sideWeight="0.50075644" side_tool="true" weight="0.41950464" />
+      <window_info anchor="bottom" id="Unit Tests" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924356" weight="0.41950464" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="NuGet" weight="0.32972136" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15506808" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Build" />
+      <window_info anchor="right" id="Database" weight="0.32980332" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3993808" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="2" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/DBLayer/Class1.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DBEntities/IdGenerator.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="38" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
+          <folding>
+            <marker date="1530765376988" expanded="true" signature="35:199" ph="{...}" />
+            <marker date="1530765376988" expanded="true" signature="75:197" ph="{...}" />
+            <marker date="1530765376988" expanded="true" signature="116:191" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DBEntities/NameGenerator.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding>
+            <marker date="1530765178521" expanded="true" signature="6:73" ph="..." />
+            <marker date="1530765178521" expanded="true" signature="95:496" ph="{...}" />
+            <marker date="1530765178521" expanded="true" signature="137:494" ph="{...}" />
+            <marker date="1530765178521" expanded="true" signature="219:326" ph="{...}" />
+            <marker date="1530765178521" expanded="true" signature="366:479" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DBLayer/DataBase.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="201">
+          <caret line="78" column="46" selection-start-line="78" selection-start-column="33" selection-end-line="78" selection-end-column="46" />
+          <folding>
+            <marker date="1530767436398" expanded="false" signature="6:115" ph="..." />
+            <marker date="1530767436398" expanded="true" signature="134:4271" ph="{...}" />
+            <marker date="1530767436398" expanded="true" signature="141:211" ph="/// Put and get data from MongoDB ... " />
+            <marker date="1530767436398" expanded="true" signature="237:4269" ph="{...}" />
+            <marker date="1530767436398" expanded="true" signature="359:436" ph="{...}" />
+            <marker date="1530767436398" expanded="true" signature="447:536" ph="/// Get db ... " />
+            <marker date="1530767436398" expanded="true" signature="575:796" ph="{...}" />
+            <marker date="1530767436398" expanded="false" signature="814:1087" ph="/// Insert documents to the collection ... " />
+            <marker date="1530767436398" expanded="false" signature="1170:1392" ph="{...}" />
+            <marker date="1530767436398" expanded="false" signature="1402:1663" ph="/// Insert a document to the collection ... " />
+            <marker date="1530767436398" expanded="true" signature="1731:1951" ph="{...}" />
+            <marker date="1530767436398" expanded="false" signature="1970:2162" ph="/// returns collection by name ... " />
+            <marker date="1530767436398" expanded="true" signature="2227:2369" ph="{...}" />
+            <marker date="1530767436398" expanded="false" signature="2379:2492" ph="/// create colection by name ... " />
+            <marker date="1530767436398" expanded="false" signature="2542:2833" ph="{...}" />
+            <marker date="1530767436398" expanded="false" signature="2843:2980" ph="/// returns all collections in the db ... " />
+            <marker date="1530767436398" expanded="false" signature="3042:3301" ph="{...}" />
+            <marker date="1530767436398" expanded="false" signature="3311:3458" ph="/// returns all collection names in the db ... " />
+            <marker date="1530767436398" expanded="false" signature="3515:3759" ph="{...}" />
+            <marker date="1530767436398" expanded="true" signature="3769:3925" ph="/// returns collection of db collection ... " />
+            <marker date="1530767436398" expanded="false" signature="3998:4254" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DBEntities/Client.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="14" lean-forward="true" selection-start-line="28" selection-start-column="14" selection-end-line="28" selection-end-column="14" />
+          <folding>
+            <marker date="1530764953926" expanded="true" signature="35:733" ph="{...}" />
+            <marker date="1530764953926" expanded="true" signature="42:140" ph="/// Entity that reflect an information ... " />
+            <marker date="1530764953926" expanded="true" signature="164:731" ph="{...}" />
+            <marker date="1530764953926" expanded="true" signature="357:725" ph="{...}" />
+            <marker date="1530764953926" expanded="true" signature="574:685" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DBEntities/Mocks/TestMock.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+          <folding>
+            <marker date="1530784867001" expanded="true" signature="20:588" ph="{...}" />
+            <marker date="1530784867001" expanded="true" signature="48:586" ph="{...}" />
+            <marker date="1530784867001" expanded="true" signature="297:571" ph="{...}" />
+            <marker date="1530784867001" expanded="true" signature="354:560" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DBEntities/Mocks/ClientMock1.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="47" selection-start-line="23" selection-start-column="47" selection-end-line="23" selection-end-column="47" />
+          <folding>
+            <marker date="1530772604845" expanded="true" signature="20:1553" ph="{...}" />
+            <marker date="1530772604845" expanded="true" signature="51:1551" ph="{...}" />
+            <marker date="1530772604845" expanded="true" signature="979:1545" ph="{...}" />
+            <marker date="1530772604845" expanded="true" signature="1039:1534" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DBEntities/Mocks/ClientMock2.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="10" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="10" />
+          <folding>
+            <marker date="1530772537303" expanded="true" signature="20:1053" ph="{...}" />
+            <marker date="1530772537303" expanded="true" signature="51:1051" ph="{...}" />
+            <marker date="1530772537303" expanded="true" signature="720:1045" ph="{...}" />
+            <marker date="1530772537303" expanded="true" signature="780:1034" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DBEntities/Mocks/ClientMock3.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="40" selection-start-line="12" selection-start-column="40" selection-end-line="12" selection-end-column="40" />
+          <folding>
+            <marker date="1530772463973" expanded="true" signature="20:538" ph="{...}" />
+            <marker date="1530772463973" expanded="true" signature="51:536" ph="{...}" />
+            <marker date="1530772463973" expanded="true" signature="472:530" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DBConsoleTest/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="70" column="13" lean-forward="true" selection-start-line="70" selection-start-column="13" selection-end-line="70" selection-end-column="13" />
+          <folding>
+            <marker date="1530773773516" expanded="true" signature="6:73" ph="..." />
+            <marker date="1530773773516" expanded="true" signature="98:2559" ph="{...}" />
+            <marker date="1530773773516" expanded="true" signature="125:2557" ph="{...}" />
+            <marker date="1530773773516" expanded="true" signature="158:2551" ph="{...}" />
+            <marker date="1530773773516" expanded="true" signature="603:713" ph="/* create separate collection for ... */" />
+            <marker date="1530773773516" expanded="true" signature="726:929" ph="/* foreach (var client in clients) ... */" />
+            <marker date="1530773773516" expanded="true" signature="1022:1495" ph="/* var allCollections = dbConnection.GetAllCollections(); ... */" />
+            <marker date="1530773773516" expanded="true" signature="1509:1579" ph="/* insert documents into clients collections ... */" />
+            <marker date="1530773773516" expanded="true" signature="1592:1928" ph="/* foreach (var client in clients) ... */" />
+            <marker date="1530773773516" expanded="true" signature="1985:2457" ph="{...}" />
+            <marker date="1530773773516" expanded="true" signature="2340:2443" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

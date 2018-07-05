@@ -1,0 +1,16 @@
+C:\Users\MobyDi\RiderProjects\DBLayer\DBConsoleTest\bin\Debug\netcoreapp2.0\DBConsoleTest.deps.json
+C:\Users\MobyDi\RiderProjects\DBLayer\DBConsoleTest\bin\Debug\netcoreapp2.0\DBConsoleTest.runtimeconfig.json
+C:\Users\MobyDi\RiderProjects\DBLayer\DBConsoleTest\bin\Debug\netcoreapp2.0\DBConsoleTest.runtimeconfig.dev.json
+C:\Users\MobyDi\RiderProjects\DBLayer\DBConsoleTest\bin\Debug\netcoreapp2.0\DBConsoleTest.dll
+C:\Users\MobyDi\RiderProjects\DBLayer\DBConsoleTest\bin\Debug\netcoreapp2.0\DBConsoleTest.pdb
+C:\Users\MobyDi\RiderProjects\DBLayer\DBConsoleTest\bin\Debug\netcoreapp2.0\DBEntities.dll
+C:\Users\MobyDi\RiderProjects\DBLayer\DBConsoleTest\bin\Debug\netcoreapp2.0\DBLayer.dll
+C:\Users\MobyDi\RiderProjects\DBLayer\DBConsoleTest\bin\Debug\netcoreapp2.0\DBEntities.pdb
+C:\Users\MobyDi\RiderProjects\DBLayer\DBConsoleTest\bin\Debug\netcoreapp2.0\DBLayer.pdb
+C:\Users\MobyDi\RiderProjects\DBLayer\DBConsoleTest\obj\Debug\netcoreapp2.0\DBConsoleTest.csprojAssemblyReference.cache
+C:\Users\MobyDi\RiderProjects\DBLayer\DBConsoleTest\obj\Debug\netcoreapp2.0\DBConsoleTest.csproj.CoreCompileInputs.cache
+C:\Users\MobyDi\RiderProjects\DBLayer\DBConsoleTest\obj\Debug\netcoreapp2.0\DBConsoleTest.AssemblyInfoInputs.cache
+C:\Users\MobyDi\RiderProjects\DBLayer\DBConsoleTest\obj\Debug\netcoreapp2.0\DBConsoleTest.AssemblyInfo.cs
+C:\Users\MobyDi\RiderProjects\DBLayer\DBConsoleTest\obj\Debug\netcoreapp2.0\DBConsoleTest.csproj.CopyComplete
+C:\Users\MobyDi\RiderProjects\DBLayer\DBConsoleTest\obj\Debug\netcoreapp2.0\DBConsoleTest.dll
+C:\Users\MobyDi\RiderProjects\DBLayer\DBConsoleTest\obj\Debug\netcoreapp2.0\DBConsoleTest.pdb

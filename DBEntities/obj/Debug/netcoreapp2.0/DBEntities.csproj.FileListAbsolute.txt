@@ -1,0 +1,9 @@
+C:\Users\MobyDi\RiderProjects\DBLayer\DBEntities\bin\Debug\netcoreapp2.0\DBEntities.deps.json
+C:\Users\MobyDi\RiderProjects\DBLayer\DBEntities\bin\Debug\netcoreapp2.0\DBEntities.dll
+C:\Users\MobyDi\RiderProjects\DBLayer\DBEntities\bin\Debug\netcoreapp2.0\DBEntities.pdb
+C:\Users\MobyDi\RiderProjects\DBLayer\DBEntities\obj\Debug\netcoreapp2.0\DBEntities.csprojAssemblyReference.cache
+C:\Users\MobyDi\RiderProjects\DBLayer\DBEntities\obj\Debug\netcoreapp2.0\DBEntities.csproj.CoreCompileInputs.cache
+C:\Users\MobyDi\RiderProjects\DBLayer\DBEntities\obj\Debug\netcoreapp2.0\DBEntities.AssemblyInfoInputs.cache
+C:\Users\MobyDi\RiderProjects\DBLayer\DBEntities\obj\Debug\netcoreapp2.0\DBEntities.AssemblyInfo.cs
+C:\Users\MobyDi\RiderProjects\DBLayer\DBEntities\obj\Debug\netcoreapp2.0\DBEntities.dll
+C:\Users\MobyDi\RiderProjects\DBLayer\DBEntities\obj\Debug\netcoreapp2.0\DBEntities.pdb
