@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 using DBEntities;
 using MongoDB.Bson;
 using MongoDB.Driver;
@@ -7,13 +8,33 @@ namespace DBConsoleTest
 {
     static class Program
     {
+
+        static List<Client> Clients()
+        {
+            List<Client> clientList = new List<Client>();
+
+            for (int i = 0; i < 100; i++)
+            {
+                Client test = new Client();
+                clientList.Add(test);
+            }
+
+            return clientList;
+        }
+
         static void Main()
         {
+
+
+            var clienList = Clients();
+            
             string clientsCollectionName = "ClientsCollection";
             string dbName = "test1DB";
             
    
             var dbConnection = new DBLayer.DataBase(dbName);
+            
+            dbConnection.InsertMany(clienList,clientsCollectionName);
             
             //get info from ClientsCollection
             var clientsCollection = dbConnection.GetCollection<Client>(clientsCollectionName);

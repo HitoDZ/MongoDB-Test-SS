@@ -13,8 +13,21 @@ namespace DBEntities
         public string Name { get; set; }
 
         public string WorkCollection { get; set; }
-
         
+        //ctor
+        public Client()
+        {
+            var id = IdGenerator.GetId();
+            var name = NameGenerator.GetName();
+            var workColl = "coll" + name + Convert.ToString(id);
+
+
+
+            this.Id = id;
+            this.Name = name;
+            this.WorkCollection = workColl;
+
+        }
         public static Client GenerateRandom()
         {
             var id = IdGenerator.GetId();
@@ -27,7 +40,6 @@ namespace DBEntities
                 Name = name,
                 WorkCollection = workColl
             };
-
 
             return client;
         }

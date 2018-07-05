@@ -7,3 +7,12 @@ C:\Users\MobyDi\RiderProjects\DBLayer\DBLayer\obj\Debug\netstandard2.0\DBLayer.A
 C:\Users\MobyDi\RiderProjects\DBLayer\DBLayer\obj\Debug\netstandard2.0\DBLayer.AssemblyInfo.cs
 C:\Users\MobyDi\RiderProjects\DBLayer\DBLayer\obj\Debug\netstandard2.0\DBLayer.dll
 C:\Users\MobyDi\RiderProjects\DBLayer\DBLayer\obj\Debug\netstandard2.0\DBLayer.pdb
+D:\Programming\SS\MongoDB-Test-SS\DBLayer\bin\Debug\netstandard2.0\DBLayer.deps.json
+D:\Programming\SS\MongoDB-Test-SS\DBLayer\bin\Debug\netstandard2.0\DBLayer.dll
+D:\Programming\SS\MongoDB-Test-SS\DBLayer\bin\Debug\netstandard2.0\DBLayer.pdb
+D:\Programming\SS\MongoDB-Test-SS\DBLayer\obj\Debug\netstandard2.0\DBLayer.csprojAssemblyReference.cache
+D:\Programming\SS\MongoDB-Test-SS\DBLayer\obj\Debug\netstandard2.0\DBLayer.csproj.CoreCompileInputs.cache
+D:\Programming\SS\MongoDB-Test-SS\DBLayer\obj\Debug\netstandard2.0\DBLayer.AssemblyInfoInputs.cache
+D:\Programming\SS\MongoDB-Test-SS\DBLayer\obj\Debug\netstandard2.0\DBLayer.AssemblyInfo.cs
+D:\Programming\SS\MongoDB-Test-SS\DBLayer\obj\Debug\netstandard2.0\DBLayer.dll
+D:\Programming\SS\MongoDB-Test-SS\DBLayer\obj\Debug\netstandard2.0\DBLayer.pdb

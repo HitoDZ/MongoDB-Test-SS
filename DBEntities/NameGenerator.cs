@@ -10,7 +10,7 @@ namespace DBEntities
 
         static NameGenerator()
         {
-            _names = new List<string>{"Vitia", "Colia", "Anatoliy", "Petro", "Pavlo"};
+            _names = new List<string>{"Vitia", "Colia", "Anatoliy", "Petro", "Pavlo", "Sumsung","Sony","Test"};
         }
 
         public static string GetName()

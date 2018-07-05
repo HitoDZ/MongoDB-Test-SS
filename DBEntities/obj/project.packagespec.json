@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "C:\\Users\\MobyDi\\RiderProjects\\DBLayer\\DBEntities\\DBEntities.csproj",
+    "projectUniqueName": "D:\\Programming\\SS\\MongoDB-Test-SS\\DBEntities\\DBEntities.csproj",
     "projectName": "DBEntities",
-    "projectPath": "C:\\Users\\MobyDi\\RiderProjects\\DBLayer\\DBEntities\\DBEntities.csproj",
-    "outputPath": "C:\\Users\\MobyDi\\RiderProjects\\DBLayer\\DBEntities\\obj\\",
+    "projectPath": "D:\\Programming\\SS\\MongoDB-Test-SS\\DBEntities\\DBEntities.csproj",
+    "outputPath": "D:\\Programming\\SS\\MongoDB-Test-SS\\DBEntities\\obj\\",
     "projectStyle": "PackageReference",
     "fallbackFolders": [
       "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

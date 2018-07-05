@@ -664,23 +664,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\MobyDi\\.nuget\\packages\\": {},
+    "C:\\Users\\Dima\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\MobyDi\\RiderProjects\\DBLayer\\DBEntities\\DBEntities.csproj",
+      "projectUniqueName": "D:\\Programming\\SS\\MongoDB-Test-SS\\DBEntities\\DBEntities.csproj",
       "projectName": "DBEntities",
-      "projectPath": "C:\\Users\\MobyDi\\RiderProjects\\DBLayer\\DBEntities\\DBEntities.csproj",
-      "packagesPath": "C:\\Users\\MobyDi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\MobyDi\\RiderProjects\\DBLayer\\DBEntities\\obj\\",
+      "projectPath": "D:\\Programming\\SS\\MongoDB-Test-SS\\DBEntities\\DBEntities.csproj",
+      "packagesPath": "C:\\Users\\Dima\\.nuget\\packages\\",
+      "outputPath": "D:\\Programming\\SS\\MongoDB-Test-SS\\DBEntities\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\MobyDi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Dima\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

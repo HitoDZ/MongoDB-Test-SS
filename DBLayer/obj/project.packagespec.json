@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "C:\\Users\\MobyDi\\RiderProjects\\DBLayer\\DBLayer\\DBLayer.csproj",
+    "projectUniqueName": "D:\\Programming\\SS\\MongoDB-Test-SS\\DBLayer\\DBLayer.csproj",
     "projectName": "DBLayer",
-    "projectPath": "C:\\Users\\MobyDi\\RiderProjects\\DBLayer\\DBLayer\\DBLayer.csproj",
-    "outputPath": "C:\\Users\\MobyDi\\RiderProjects\\DBLayer\\DBLayer\\obj\\",
+    "projectPath": "D:\\Programming\\SS\\MongoDB-Test-SS\\DBLayer\\DBLayer.csproj",
+    "outputPath": "D:\\Programming\\SS\\MongoDB-Test-SS\\DBLayer\\obj\\",
     "projectStyle": "PackageReference",
     "fallbackFolders": [
       "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

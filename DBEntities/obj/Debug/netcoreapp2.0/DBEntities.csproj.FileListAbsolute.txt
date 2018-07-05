@@ -7,3 +7,12 @@ C:\Users\MobyDi\RiderProjects\DBLayer\DBEntities\obj\Debug\netcoreapp2.0\DBEntit
 C:\Users\MobyDi\RiderProjects\DBLayer\DBEntities\obj\Debug\netcoreapp2.0\DBEntities.AssemblyInfo.cs
 C:\Users\MobyDi\RiderProjects\DBLayer\DBEntities\obj\Debug\netcoreapp2.0\DBEntities.dll
 C:\Users\MobyDi\RiderProjects\DBLayer\DBEntities\obj\Debug\netcoreapp2.0\DBEntities.pdb
+D:\Programming\SS\MongoDB-Test-SS\DBEntities\bin\Debug\netcoreapp2.0\DBEntities.deps.json
+D:\Programming\SS\MongoDB-Test-SS\DBEntities\bin\Debug\netcoreapp2.0\DBEntities.dll
+D:\Programming\SS\MongoDB-Test-SS\DBEntities\bin\Debug\netcoreapp2.0\DBEntities.pdb
+D:\Programming\SS\MongoDB-Test-SS\DBEntities\obj\Debug\netcoreapp2.0\DBEntities.csprojAssemblyReference.cache
+D:\Programming\SS\MongoDB-Test-SS\DBEntities\obj\Debug\netcoreapp2.0\DBEntities.csproj.CoreCompileInputs.cache
+D:\Programming\SS\MongoDB-Test-SS\DBEntities\obj\Debug\netcoreapp2.0\DBEntities.AssemblyInfoInputs.cache
+D:\Programming\SS\MongoDB-Test-SS\DBEntities\obj\Debug\netcoreapp2.0\DBEntities.AssemblyInfo.cs
+D:\Programming\SS\MongoDB-Test-SS\DBEntities\obj\Debug\netcoreapp2.0\DBEntities.dll
+D:\Programming\SS\MongoDB-Test-SS\DBEntities\obj\Debug\netcoreapp2.0\DBEntities.pdb
