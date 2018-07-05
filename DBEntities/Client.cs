@@ -28,18 +28,23 @@ namespace DBEntities
             this.WorkCollection = workColl;
 
         }
+        
+        public Client(long id,string name,string workCollection)
+        {
+            this.Id = id;
+            this.Name = name;
+            this.WorkCollection = workCollection;
+        }
+        
         public static Client GenerateRandom()
         {
+            
             var id = IdGenerator.GetId();
             var name = NameGenerator.GetName();
             var workColl = "coll" + name + Convert.ToString(id);
 
-            var client = new Client()
-            {
-                Id = id,
-                Name = name,
-                WorkCollection = workColl
-            };
+            var client = new Client(id, name, workColl);
+            
 
             return client;
         }
